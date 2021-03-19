@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "AZY/3ZUZawJG1eQ+UFCsSE0E6sDscDj6/giCnuUjCsi7BCmRB1CEfMokBheDNtMJu+J1zYnbDWCY7ji1qAI8Bw==",
+  "success": true,
+  "projectFilePath": "W:\\Projects\\TestToDirectum\\TestToDirectum\\TestToDirectum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nshen\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\nshen\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\nshen\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\nshen\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\nshen\\.nuget\\packages\\swashbuckle.aspnetcore\\6.1.1\\swashbuckle.aspnetcore.6.1.1.nupkg.sha512",
+    "C:\\Users\\nshen\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.1.1\\swashbuckle.aspnetcore.swagger.6.1.1.nupkg.sha512",
+    "C:\\Users\\nshen\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.1.1\\swashbuckle.aspnetcore.swaggergen.6.1.1.nupkg.sha512",
+    "C:\\Users\\nshen\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.1.1\\swashbuckle.aspnetcore.swaggerui.6.1.1.nupkg.sha512",
+    "C:\\Users\\nshen\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512",
+    "C:\\Users\\nshen\\.nuget\\packages\\tesseract.net.sdk\\1.18.342\\tesseract.net.sdk.1.18.342.nupkg.sha512"
+  ],
+  "logs": []
+}
